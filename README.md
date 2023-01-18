@@ -62,4 +62,7 @@
 ```
 >Se utiliza para explorar el historial del repositorio.
 
-##Vote positivamente si le ha gustado :)
+```bash
+Si quiere más...
+```
+>Vote positivamente si le ha gustado.
