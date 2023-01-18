@@ -48,15 +48,18 @@
 >Modifica el commit más reciente.
 
 ```bash
-9. git annotate
+10. git annotate
 ```
 >Anota cada línea en el archivo dado con información de la confirmación que se introdujo en la línea. 
 
 ```bash
-10. git diff [codigo]..HEAD
+11. git diff [codigo]..HEAD
 ```
 >Muestra los cambios realizados en nuestro directorio de trabajo con respecto al repositorio local.
 
-
+```bash
+12. git log
+```
+>Se utiliza para explorar el historial del repositorio.
 
 
