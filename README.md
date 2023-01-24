@@ -3,8 +3,9 @@
 ## Comandos utilizados
 
 ```bash
-1. Inicializacion do repositorio local.
+1. git init 
 ```
+>Inicializacion do repositorio local.
 
 ```bash
 2. git remote -v
