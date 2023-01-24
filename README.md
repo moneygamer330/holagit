@@ -25,7 +25,7 @@
 ```bash
 5. git push -u origin main
 ```
->Sube todo el contenido del main al repositorio enlazado.
+>Sube todo el contenido del `main` al repositorio enlazado.
 
 ```bash
 6. git remote add origin [url]
@@ -45,7 +45,7 @@
 ```bash
 9. git commit --amend
 ```
->Modifica el commit más reciente.
+>Modifica el `commit` más reciente.
 
 ```bash
 10. git annotate
@@ -63,11 +63,31 @@
 >Se utiliza para explorar el historial del repositorio.
 
 ```bash
-12. git reset [--mixed] HEAD
+13. git reset [--mixed] HEAD
 ```
->Es un comando con el que se pueden resetear los cambios del ultimo commit, pero queda guardado en el fichero de trabajo.
+>Es un comando con el que se pueden resetear los cambios del ultimo `commit`, pero queda guardado en el fichero de trabajo.
+
+```bash
+14. git restore
+```
+>De manera simplificada, deshace el comando `git add ` o restaura a una version específica.
+
+```bash
+15. git reset [--hard]
+```
+>Este comando resetea los cambios del ultimo `commit`, pero no hay posibilidad de deshacer los cambios.
+
+```bash
+16. git clear - `[indice valido]`
+```
+>Es un método para eliminar los archivos sin seguimiento en un directorio de trabajo del repositorio.
+
+```bash
+17. git checkout
+```
+>Actualiza archivos en el fichero de trabajo para que coincidan con la versión en el índice o el fichero especificado. 
 
 ##
-### Si quiere mas..
+### Si quiere mas `commits`..
 
 >Vote positivamente :)
