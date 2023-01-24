@@ -67,6 +67,6 @@
 ```
 >Es un comando con el que se pueden resetear los cambios del ultimo commit, pero queda guardado en el fichero de trabajo.
 
-### Si quiere mas..
+## Si quiere mas..
 
 >Vote positivamente :)
