@@ -1,11 +1,10 @@
-﻿# Tarea Laboratorio 101 git
+# Tarea Laboratorio 101 git
 
 ## Comandos utilizados
 
 ```bash
-1. git init
+1. Inicializacion do repositorio local.
 ```
->Inicializacion do repositorio local.
 
 ```bash
 2. git remote -v
@@ -63,6 +62,10 @@
 >Se utiliza para explorar el historial del repositorio.
 
 ```bash
-Si quiere más...
+12. git reset [--mixed] HEAD
 ```
->Vote positivamente si le ha gustado.
+>Es un comando con el que se pueden resetear los cambios del ultimo commit, pero queda guardado en el fichero de trabajo.
+
+### Si quiere mas..
+
+>Vote positivamente :)
