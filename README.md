@@ -88,6 +88,6 @@
 >Actualiza archivos en el fichero de trabajo para que coincidan con la versión en el índice o el fichero especificado. 
 
 ##
-### Si quiere mas `commits`..
+### Si quiere mas `commits` ..
 
 >Vote positivamente :)
