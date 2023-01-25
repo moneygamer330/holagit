@@ -87,7 +87,22 @@
 ```
 >Actualiza archivos en el fichero de trabajo para que coincidan con la versión en el índice o el fichero especificado. 
 
+```bash
+18. git merge
+```
+>Se suele utilizar junto con el comando `git checkout` para seleccionar la rama actual.
+
+```bash
+19. git branch
+```
+>El coamndo `git branch` te permite crear, enumerar, renombrar y eliminar directorios.
+
+```bash
+20. git branch -d
+```
+>Esta relacionado con el comando `git merge`, ya que se utiliza para la eliminación de una rama de destino obsoleta.
+
 ##
 ### Si quiere mas `commits` ..
-
 >Vote positivamente :)
+## 
